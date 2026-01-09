@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">آلة حاسبة احترافية</string>
+    <string name="history_title">السجل</string>
+    <string name="clear_history">مسح السجل</string>
+    <string name="no_history">لا يوجد سجل</string>
+    <string name="error">خطأ</string>
+</resources>
